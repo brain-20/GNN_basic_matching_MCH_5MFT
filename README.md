@@ -17,6 +17,7 @@ This script processes a dataset to build a heterogeneous graph:
 Data file too large to add, but the data files have the following format (here I put a few examples):
 
 example 1:
+
 5.77639 22.7308 1.34896 -23.2358 -0.447052 -1.98378 3.82466 2.02252 -10.9534 3.84985 0 0 0 0 0 0 0 0 0 0 4896 0 0 0
 5.77639 22.7308 1.34896 -23.2358 -0.447052 3.93799 4.3559 0.830581 -8.93579 -1.12976 0 0 0 0 0 0 0 0 0 0 5216 0 0 0
 5.77639 22.7308 1.34896 -23.2358 -0.447052 2.85683 6.67858 1.15683 -6.52771 3.625 0 0 0 0 0 0 0 0 0 0 5536 0 0 0
