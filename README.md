@@ -15,6 +15,7 @@ This script processes a dataset to build a heterogeneous graph:
   - An edge connects an MCH node with its corresponding MFT node.
 
 Data file too large to add, but the data files have the following format (here I put a few examples):
+(Look at image in preview format, not code. The rest of the rows view in code view)
 
 example 1:
 
@@ -26,7 +27,6 @@ example 1:
 
 ![image](https://github.com/user-attachments/assets/3ed0447c-ebef-4537-b025-6130fb189dd5)
 
-(Look at image in preview format, not edit)
 
 -21.7985 -23.8084 -2.34808 -18.8022 0.894958 -2.1656 -2.33431 -2.30583 -16.4722 0.934631 0 0 0 0 0 0 0 0 0 0 5.71875 1 0 0
 -21.7985 -23.8084 -2.34808 -18.8022 0.894958 -3.00003 -4.92137 -2.12374 -9.677 -0.00538158 0 0 0 0 0 0 0 0 0 0 428 0 0 0
