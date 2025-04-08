@@ -15,7 +15,8 @@ This script processes a dataset to build a heterogeneous graph:
   - An edge connects an MCH node with its corresponding MFT node.
 
 Data file too large to add, but the data files have the following format (here I put a few examples):
-(Look at image in preview format, not code. The rest of the rows view in code view)
+
+NB: Look at image in preview format, not code. The rest of the rows view in code view!
 
 example 1:
 
